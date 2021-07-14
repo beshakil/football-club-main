@@ -370,7 +370,7 @@ Mobile Responsive Section
         padding: 15px 15px 10px 10px;
     }
     .news-content h3{
-        padding-top: 3px;
+        padding-top: 5px;
         padding-left: 0px;
         padding-bottom: 13px;
         font-size: 20px;
@@ -532,9 +532,8 @@ Tablet Responsive Section
         padding: 15px 15px 10px 15px;
     }
     .news-content h3{
-        padding-top: 3px;
+        padding-top: 5px;
         padding-left: 0px;
-        padding-bottom: 13px;
         font-size: 20px;
         margin: 0;
     }
