@@ -356,9 +356,9 @@ Mobile Responsive Section
         grid-template-columns: repeat(1, 1fr);
     }
     .news-content {
-        width: 345px;
+        width: 334px;
         height: 115px;
-        margin-left: 7px;
+        margin-left: 12px;
     }
 
     .blog-details{
